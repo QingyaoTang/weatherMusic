@@ -1,0 +1,5 @@
+1.解压 qq-music-api-main.zip
+执行npm install  下载依赖
+执行npm start启动qq音乐api接口服务
+web service 用户的数据接口
+weather_music flutterapp项目
